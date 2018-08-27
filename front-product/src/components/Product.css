@@ -1,0 +1,21 @@
+.product {
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #bbb;
+  background-color: white;
+}
+
+.product span {
+  font-size: 1.2em;
+  text-decoration: none;
+  color: #333;
+}
+
+.images img {
+	height: 150;
+	width: 117;
+}
+
+.old-price {
+	text-decoration: line-through;
+}
